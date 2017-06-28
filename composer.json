@@ -1,5 +1,5 @@
 {
-    "require-dev": {
+    "require": {
         "phpunit/phpunit": "^5.7.21",
          "ext-mbstring": "*"
     }	
