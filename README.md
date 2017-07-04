@@ -1,7 +1,7 @@
 # le_deploy#
 Repositório para testar Deploy automático<br /><br />
 Clone o repositório e após a cada novo push na master o heroku vai realizar o build e deploy da alteração.
-<br /> Comando para rodar os testes: ```bash phpunit --colors --bootstrap src/Leet.php tests/LeetTest.php ```
+<br /> Comando para rodar os testes: ``` phpunit --colors --bootstrap src/Leet.php tests/LeetTest.php ```
 <br /><br />
 **Tecnologias Utilizadas**
 - PHP 5.6
