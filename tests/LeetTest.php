@@ -3,7 +3,6 @@
 
 use PHPUnit\Framework\TestCase;
 
-
 final class LeetTest extends TestCase
 {
     public function setUp(){

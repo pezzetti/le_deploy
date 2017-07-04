@@ -1,7 +1,5 @@
 <?php
 
-//namespace Application\NativeElements;
-
 
 final class Leet{
 	
